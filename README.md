@@ -1,17 +1,17 @@
-import pypandoc, os
+import os, pypandoc
 
 readme = r'''<!--
 GitHub Profile README
 Repository: MuhamadMahad00/MuhamadMahad00
-Update any project links or technology labels if your repositories change.
+Keep project links and technology claims aligned with your actual work.
 -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B1D,40:172554,75:4338CA,100:06B6D4&height=230&section=header&text=Muhamad%20Mahad&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Generative%20AI%20%7C%20Agentic%20AI%20%7C%20AI%20Automation&descSize=17&descAlignY=60&animation=fadeIn" alt="Muhamad Mahad — AI and Automation" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B1D,40:172554,75:4338CA,100:06B6D4&height=230&section=header&text=Muhamad%20Mahad&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20%7C%20Automation&descSize=16&descAlignY=60&animation=fadeIn" alt="Muhamad Mahad — AI, Machine Learning and Automation" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Practical+AI+Applications;RAG+%7C+LLMs+%7C+Agentic+AI;LangChain+%7C+LangGraph+%7C+MCP;AI+Workflow+Automation+with+n8n;Python+%7C+JavaScript+%7C+FastAPI" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Practical+AI+Applications;Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+RAG+%7C+AI+Agents;LangChain+%7C+LangGraph+%7C+MCP;Workflow+Automation+with+n8n;Python+%7C+JavaScript+%7C+FastAPI" alt="Animated introduction" />
 </a>
 
 <br/>
@@ -19,7 +19,8 @@ Update any project links or technology labels if your repositories change.
 <a href="https://github.com/MuhamadMahad00">
   <img src="https://img.shields.io/badge/GitHub-MuhamadMahad00-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
 </a>
-<img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=for-the-badge" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/Machine_Learning-2563EB?style=for-the-badge" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Deep_Learning-7C3AED?style=for-the-badge" alt="Deep Learning"/>
 <img src="https://img.shields.io/badge/Automation-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n automation"/>
 
 </div>
@@ -28,20 +29,21 @@ Update any project links or technology labels if your repositories change.
 
 ## 👋 About Me
 
-I'm **Muhamad Mahad**, a Computer Science graduate from the **University of Engineering and Technology (UET), Peshawar, Pakistan**. I'm passionate about building practical AI applications that combine Generative AI, Agentic AI, and automation to solve real-world problems.
+I'm **Muhamad Mahad**, a Computer Science graduate from the **University of Engineering and Technology (UET), Peshawar, Pakistan**. I'm interested in building practical AI applications that combine machine learning, deep learning, Generative AI, and automation to solve real-world problems.
 
-My focus is on turning ideas into useful software — from retrieval-augmented generation (RAG) systems and tool-using AI assistants to automated workflows and API-driven applications.
+My work and learning focus on turning ideas into useful software — from predictive machine learning models and intelligent applications to retrieval-augmented generation (RAG) systems, AI agents, and automated workflows.
 
-- 🤖 **Generative AI & RAG:** Building LLM-powered applications, chatbots, and document-grounded question-answering systems.
-- 🧠 **Agentic AI & MCP:** Exploring AI agents, tool calling, multi-agent workflows, LangGraph, and Model Context Protocol.
+- 📊 **Machine Learning:** Data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation.
+- 🧠 **Deep Learning:** Neural networks and deep-learning concepts for data-driven applications.
+- 🤖 **Generative AI & RAG:** LLM-powered applications, chatbots, and document-grounded question-answering systems.
+- 🛠️ **Agentic AI & MCP:** Tool-using AI assistants, multi-agent workflows, LangGraph, and Model Context Protocol.
 - ⚙️ **AI Workflow Automation:** Connecting applications, APIs, and business processes using n8n.
-- 💻 **Backend Development:** Building Python-based services with FastAPI and REST APIs.
-- 🌐 **Application Development:** Using JavaScript to integrate AI capabilities into practical applications.
+- 💻 **Backend & Application Development:** Python, FastAPI, REST APIs, and JavaScript-based application integrations.
 - 🚀 **Continuous Learning:** Improving through hands-on projects, experimentation, and practical problem-solving.
 
 I enjoy working at the intersection of AI, software development, and automation. My goal is to build solutions that are useful, maintainable, and designed around real user needs.
 
-> **Turning ideas into intelligent solutions, one project at a time.**
+> **Turning data and ideas into intelligent solutions, one project at a time.**
 
 ---
 
@@ -51,7 +53,22 @@ I enjoy working at the intersection of AI, software development, and automation.
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Python, JavaScript, HTML, CSS"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Python, JavaScript, HTML and CSS"/>
+
+### Machine Learning & Data Science
+
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/EDA-0F766E?style=for-the-badge" alt="Exploratory Data Analysis"/>
+<img src="https://img.shields.io/badge/Feature_Engineering-2563EB?style=for-the-badge" alt="Feature Engineering"/>
+<img src="https://img.shields.io/badge/Model_Evaluation-4338CA?style=for-the-badge" alt="Model Evaluation"/>
+
+### Deep Learning
+
+<img src="https://img.shields.io/badge/Neural_Networks-7C3AED?style=for-the-badge" alt="Neural Networks"/>
+<img src="https://img.shields.io/badge/Deep_Learning-2563EB?style=for-the-badge" alt="Deep Learning"/>
+<img src="https://img.shields.io/badge/SHAP-0F766E?style=for-the-badge" alt="SHAP Explainability"/>
 
 ### Generative AI & Agentic AI
 
@@ -61,6 +78,8 @@ I enjoy working at the intersection of AI, software development, and automation.
 <img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge" alt="Model Context Protocol"/>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
 <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="Groq"/>
+<img src="https://img.shields.io/badge/FAISS-2563EB?style=for-the-badge" alt="FAISS"/>
+<img src="https://img.shields.io/badge/BM25-0F766E?style=for-the-badge" alt="BM25"/>
 
 ### Backend & Application Development
 
@@ -74,15 +93,9 @@ I enjoy working at the intersection of AI, software development, and automation.
 <img src="https://img.shields.io/badge/Workflow_Automation-4338CA?style=for-the-badge" alt="Workflow automation"/>
 <img src="https://img.shields.io/badge/Tool_Calling-0F766E?style=for-the-badge" alt="LLM tool calling"/>
 
-### Data, Retrieval & Databases
+### Databases & Developer Tools
 
-<img src="https://img.shields.io/badge/FAISS-2563EB?style=for-the-badge" alt="FAISS"/>
-<img src="https://img.shields.io/badge/BM25-0F766E?style=for-the-badge" alt="BM25"/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase&theme=dark" alt="MongoDB, PostgreSQL, Supabase"/>
-
-### Developer Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" alt="Git, GitHub, VS Code, Docker"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,git,github,vscode,docker&theme=dark" alt="MongoDB, PostgreSQL, Supabase, Git, GitHub, VS Code and Docker"/>
 
 </div>
 
@@ -203,7 +216,9 @@ A multilingual career counselling project designed to help Pakistani students ex
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=flat-square" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/Machine_Learning-2563EB?style=flat-square" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Deep_Learning-7C3AED?style=flat-square" alt="Deep Learning"/>
+<img src="https://img.shields.io/badge/Generative_AI-6D28D9?style=flat-square" alt="Generative AI"/>
 <img src="https://img.shields.io/badge/RAG-2563EB?style=flat-square" alt="RAG"/>
 <img src="https://img.shields.io/badge/Agentic_AI-0891B2?style=flat-square" alt="Agentic AI"/>
 <img src="https://img.shields.io/badge/n8n_Automation-EA4B71?style=flat-square" alt="n8n automation"/>
@@ -233,7 +248,7 @@ A multilingual career counselling project designed to help Pakistani students ex
 
 <br/><br/>
 
-**Interested in AI applications, intelligent agents, or workflow automation?**
+**Interested in machine learning, AI applications, intelligent agents, or workflow automation?**
 
 I'm happy to connect with developers and professionals who enjoy turning ideas into practical solutions.
 
@@ -248,4 +263,4 @@ I'm happy to connect with developers and professionals who enjoy turning ideas i
 
 path = "/mnt/data/README.md"
 pypandoc.convert_text(readme, "md", format="md", outputfile=path, extra_args=["--standalone"])
-print(f"Created {path} ({os.path.getsize(path)} bytes)")
+print(f"Created complete README.md with Machine Learning and Deep Learning sections: {os.path.getsize(path)} bytes")
