@@ -1,6 +1,3 @@
-from pathlib import Path
-
-readme = r'''<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4F46E5,100:06B6D4&height=200&section=header&text=Muhamad%20Mahad&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20%7C%20Agentic%20AI&descAlignY=58&descSize=17" alt="Muhamad Mahad profile banner" width="100%"/>
 
