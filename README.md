@@ -1,27 +1,17 @@
-import os, pypandoc
+from pathlib import Path
 
-readme = r'''<!--
-GitHub Profile README
-Repository: MuhamadMahad00/MuhamadMahad00
-Keep project links and technology claims aligned with your actual work.
--->
+readme = r'''<div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4F46E5,100:06B6D4&height=200&section=header&text=Muhamad%20Mahad&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20%7C%20Agentic%20AI&descAlignY=58&descSize=17" alt="Muhamad Mahad profile banner" width="100%"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B1D,40:172554,75:4338CA,100:06B6D4&height=230&section=header&text=Muhamad%20Mahad&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20%7C%20Automation&descSize=16&descAlignY=60&animation=fadeIn" alt="Muhamad Mahad — AI, Machine Learning and Automation" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Developer;Building+RAG+Systems+%26+AI+Agents;Generative+AI+%7C+LangGraph+%7C+MCP;Turning+ideas+into+practical+AI+solutions" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Practical+AI+Applications;Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+RAG+%7C+AI+Agents;LangChain+%7C+LangGraph+%7C+MCP;Workflow+Automation+with+n8n;Python+%7C+JavaScript+%7C+FastAPI" alt="Animated introduction" />
-</a>
-
-<br/>
-
-<a href="https://github.com/MuhamadMahad00">
-  <img src="https://img.shields.io/badge/GitHub-MuhamadMahad00-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
-</a>
-<img src="https://img.shields.io/badge/Machine_Learning-2563EB?style=for-the-badge" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/Deep_Learning-7C3AED?style=for-the-badge" alt="Deep Learning"/>
-<img src="https://img.shields.io/badge/Automation-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n automation"/>
+<p>
+  <a href="https://www.linkedin.com/in/muhamamd-mahad/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://portfolio-website-delta-swart-91.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:muhammadmahad01010@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/MuhamadMahad00"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 </div>
 
@@ -29,203 +19,141 @@ Keep project links and technology claims aligned with your actual work.
 
 ## 👋 About Me
 
-I'm **Muhamad Mahad**, a Computer Science graduate from the **University of Engineering and Technology (UET), Peshawar, Pakistan**. I'm interested in building practical AI applications that combine machine learning, deep learning, Generative AI, and automation to solve real-world problems.
+Hi! I'm **Muhamad Mahad**, a Computer Science graduate from **UET Peshawar**, passionate about building practical AI-powered applications.
 
-My work and learning focus on turning ideas into useful software — from predictive machine learning models and intelligent applications to retrieval-augmented generation (RAG) systems, AI agents, and automated workflows.
-
-- 📊 **Machine Learning:** Data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation.
-- 🧠 **Deep Learning:** Neural networks and deep-learning concepts for data-driven applications.
-- 🤖 **Generative AI & RAG:** LLM-powered applications, chatbots, and document-grounded question-answering systems.
-- 🛠️ **Agentic AI & MCP:** Tool-using AI assistants, multi-agent workflows, LangGraph, and Model Context Protocol.
-- ⚙️ **AI Workflow Automation:** Connecting applications, APIs, and business processes using n8n.
-- 💻 **Backend & Application Development:** Python, FastAPI, REST APIs, and JavaScript-based application integrations.
-- 🚀 **Continuous Learning:** Improving through hands-on projects, experimentation, and practical problem-solving.
-
-I enjoy working at the intersection of AI, software development, and automation. My goal is to build solutions that are useful, maintainable, and designed around real user needs.
-
-> **Turning data and ideas into intelligent solutions, one project at a time.**
+- 🤖 Focused on **Machine Learning, Deep Learning, Generative AI, and Agentic AI**.
+- 🔎 Building **Retrieval-Augmented Generation (RAG)** applications and intelligent AI agents.
+- 🧩 Exploring **LangChain, LangGraph, Model Context Protocol (MCP), and tool-using agents**.
+- ⚙️ Creating workflow automations with **n8n**, APIs, and Python.
+- 🚀 Interested in turning real-world problems into useful, reliable software.
+- 🤝 Open to AI/ML opportunities, collaborations, and meaningful projects.
 
 ---
 
-## 🧰 Tech Stack
-
-<div align="center">
+## 🛠️ Tech Stack
 
 ### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Python, JavaScript, HTML and CSS"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
 ### Machine Learning & Data Science
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/EDA-0F766E?style=for-the-badge" alt="Exploratory data analysis"/>
+  <img src="https://img.shields.io/badge/Feature_Engineering-2563EB?style=for-the-badge" alt="Feature engineering"/>
+  <img src="https://img.shields.io/badge/Model_Evaluation-64748B?style=for-the-badge" alt="Model evaluation"/>
+</p>
 
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/EDA-0F766E?style=for-the-badge" alt="Exploratory Data Analysis"/>
-<img src="https://img.shields.io/badge/Feature_Engineering-2563EB?style=for-the-badge" alt="Feature Engineering"/>
-<img src="https://img.shields.io/badge/Model_Evaluation-4338CA?style=for-the-badge" alt="Model Evaluation"/>
-
-### Deep Learning
-
-<img src="https://img.shields.io/badge/Neural_Networks-7C3AED?style=for-the-badge" alt="Neural Networks"/>
-<img src="https://img.shields.io/badge/Deep_Learning-2563EB?style=for-the-badge" alt="Deep Learning"/>
-<img src="https://img.shields.io/badge/SHAP-0F766E?style=for-the-badge" alt="SHAP Explainability"/>
+### Deep Learning & Explainable AI
+<p>
+  <img src="https://img.shields.io/badge/Deep_Learning-7C3AED?style=for-the-badge" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/Neural_Networks-6D28D9?style=for-the-badge" alt="Neural networks"/>
+  <img src="https://img.shields.io/badge/SHAP-0891B2?style=for-the-badge" alt="SHAP"/>
+</p>
 
 ### Generative AI & Agentic AI
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-2563EB?style=for-the-badge" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/RAG-4F46E5?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge" alt="Model Context Protocol"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="Groq"/>
+  <img src="https://img.shields.io/badge/FAISS-008080?style=for-the-badge" alt="FAISS"/>
+</p>
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/LangGraph-6C47FF?style=for-the-badge" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge" alt="Retrieval Augmented Generation"/>
-<img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge" alt="Model Context Protocol"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="Groq"/>
-<img src="https://img.shields.io/badge/FAISS-2563EB?style=for-the-badge" alt="FAISS"/>
-<img src="https://img.shields.io/badge/BM25-0F766E?style=for-the-badge" alt="BM25"/>
+### Backend, Apps & Automation
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/REST_APIs-0D9488?style=for-the-badge" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+</p>
 
-### Backend & Application Development
-
-<img src="https://skillicons.dev/icons?i=fastapi,react&theme=dark" alt="FastAPI and React"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-<img src="https://img.shields.io/badge/REST_APIs-0D9488?style=for-the-badge" alt="REST APIs"/>
-
-### Automation & Integrations
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-<img src="https://img.shields.io/badge/Workflow_Automation-4338CA?style=for-the-badge" alt="Workflow automation"/>
-<img src="https://img.shields.io/badge/Tool_Calling-0F766E?style=for-the-badge" alt="LLM tool calling"/>
-
-### Databases & Developer Tools
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,git,github,vscode,docker&theme=dark" alt="MongoDB, PostgreSQL, Supabase, Git, GitHub, VS Code and Docker"/>
-
-</div>
+### Databases & Tools
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 1. Pakistan Legal AI Assistant — Advanced RAG Chatbot
+A legal-document question-answering assistant designed to ground responses in supplied Pakistani legal documents and provide citations.
 
-### ⚖️ Pakistan Legal AI Assistant
+**Tech:** Python, FastAPI, RAG, FAISS, BM25, reranking, Groq
 
-A RAG-based legal document question-answering application using hybrid retrieval and reranking to help users explore Pakistani legal documents.
+[View Repository](https://github.com/MuhamadMahad00/Pakistan-Legal-AI-Assistant-Advanced-RAG-Chatbot)
 
-**Technologies:** Python, FastAPI, FAISS, BM25, Groq.
+### 2. Smart MCP Autonomous AI Assistant
+An AI assistant using LangGraph and MCP to connect an LLM with tools for tasks such as file operations, browsing, scraping, and API interactions.
 
-<a href="https://github.com/MuhamadMahad00/Pakistan-Legal-AI-Assistant-Advanced-RAG-Chatbot">
-  <img src="https://img.shields.io/badge/View_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Pakistan Legal AI Assistant repository"/>
-</a>
+**Tech:** Python, LangGraph, MCP, Gemini, FastAPI, SSE, Streamlit
 
-</td>
-<td width="50%" valign="top">
+[View Repository](https://github.com/MuhamadMahad00/Smart-MCP-Autonomous-AI-Assistant)
 
-### 🤖 Smart MCP Autonomous AI Assistant
+### 3. Freelancer Tax AI
+A full-stack AI application for Pakistan-focused freelancer tax calculations and RAG-based question answering.
 
-A tool-using AI assistant integrating Gemini, LangGraph, MCP, a FastAPI streaming backend, and a Streamlit interface.
+**Tech:** React, FastAPI, Gemini, ChromaDB, MongoDB
 
-**Technologies:** Python, Gemini, LangGraph, MCP, FastAPI, Streamlit.
+[View Repository](https://github.com/MuhamadMahad00/Full-stack-AI-application-for-Pakistan-Freelancer-Tax-calculations-and-RAG-based-Chat)
 
-<a href="https://github.com/MuhamadMahad00/Smart-MCP-Autonomous-AI-Assistant">
-  <img src="https://img.shields.io/badge/View_Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Smart MCP Autonomous AI Assistant repository"/>
-</a>
+### 4. AI Job Matching System
+A semantic job-matching application that compares job descriptions and candidate profiles using embeddings and vector similarity.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Tech:** Python, FastAPI, Streamlit, FAISS, MiniLM, Groq
 
-### 🧾 Pakistan Freelancer Tax AI Assistant
+[View Repository](https://github.com/MuhamadMahad00/-AI-Job-Matching-System)
 
-A full-stack AI application focused on freelancer tax calculations and RAG-based answers to tax-related questions.
+### 5. AI Personal Assistant with n8n
+An AI-powered personal assistant that connects workflows and services to help automate everyday tasks.
 
-**Technologies:** FastAPI, React, JavaScript, Gemini, ChromaDB, MongoDB.
+**Tech:** n8n, Python, Streamlit, Gemini, APIs
 
-<a href="https://github.com/MuhamadMahad00/Full-stack-AI-application-for-Pakistan-Freelancer-Tax-calculations-and-RAG-based-Chat">
-  <img src="https://img.shields.io/badge/View_Repository-0D9488?style=for-the-badge&logo=github&logoColor=white" alt="View Pakistan Freelancer Tax AI Assistant repository"/>
-</a>
+[View Repository](https://github.com/MuhamadMahad00/-AI-Personal-Assistant-n8n-Streamlit)
 
-</td>
-<td width="50%" valign="top">
+### 6. FuturePath — AI Career Counselling
+A multilingual career-counselling project designed to help Pakistani students explore career paths using AI, assessments, and explainable machine learning.
 
-### 🔎 AI Job Matching System
+**Tech:** FastAPI, React, Supabase, Groq, XGBoost, SHAP, Whisper
 
-An AI-powered application designed to match job opportunities with candidate profiles using semantic matching techniques.
-
-**Technologies:** Python, FastAPI, Streamlit, FAISS, sentence embeddings.
-
-<a href="https://github.com/MuhamadMahad00/-AI-Job-Matching-System">
-  <img src="https://img.shields.io/badge/View_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View AI Job Matching System repository"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ AI Personal Assistant
-
-An AI assistant combining n8n workflows and a Streamlit interface to support productivity-oriented integrations.
-
-**Technologies:** Python, n8n, Streamlit, Gemini.
-
-<a href="https://github.com/MuhamadMahad00/-AI-Personal-Assistant-n8n-Streamlit">
-  <img src="https://img.shields.io/badge/View_Repository-EA4B71?style=for-the-badge&logo=github&logoColor=white" alt="View AI Personal Assistant repository"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 FuturePath — AI Career Counselling
-
-A multilingual career counselling project designed to help Pakistani students explore career paths with AI-assisted guidance and explainable machine learning.
-
-**Technologies:** FastAPI, React, machine learning, SHAP, Supabase.
-
-<a href="https://github.com/muhammadmahad9999/career-counsling-system-project">
-  <img src="https://img.shields.io/badge/View_Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View FuturePath repository"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/MuhamadMahad00?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
-</a>
-
-</div>
+[View Repository](https://github.com/muhammadmahad9999/career-counsling-system-project)
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Statistics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MuhamadMahad00&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadMahad00&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages in public repositories"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhamadMahad00&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadMahad00&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=MuhamadMahad00&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </div>
 
 ---
 
 ## 🎯 Areas of Interest
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Machine_Learning-2563EB?style=flat-square" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/Deep_Learning-7C3AED?style=flat-square" alt="Deep Learning"/>
-<img src="https://img.shields.io/badge/Generative_AI-6D28D9?style=flat-square" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/RAG-2563EB?style=flat-square" alt="RAG"/>
-<img src="https://img.shields.io/badge/Agentic_AI-0891B2?style=flat-square" alt="Agentic AI"/>
-<img src="https://img.shields.io/badge/n8n_Automation-EA4B71?style=flat-square" alt="n8n automation"/>
-<img src="https://img.shields.io/badge/MCP-6D28D9?style=flat-square" alt="MCP"/>
-<img src="https://img.shields.io/badge/Backend_APIs-0D9488?style=flat-square" alt="Backend APIs"/>
-
-</div>
+- Machine Learning and Deep Learning
+- Generative AI and Retrieval-Augmented Generation
+- Agentic AI, LangGraph, and MCP
+- AI-powered APIs and applications
+- Workflow automation with n8n
+- Explainable AI and practical AI solutions
 
 ---
 
@@ -233,34 +161,21 @@ A multilingual career counselling project designed to help Pakistani students ex
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/muhamamd-mahad/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn"/>
-</a>
-<a href="https://portfolio-website-delta-swart-91.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal portfolio"/>
-</a>
-<a href="https://github.com/MuhamadMahad00" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
-</a>
-<a href="mailto:muhammadmahad01010@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
-</a>
-
-<br/><br/>
-
 **Interested in machine learning, AI applications, intelligent agents, or workflow automation?**
 
 I'm happy to connect with developers and professionals who enjoy turning ideas into practical solutions.
 
 **Let's connect, collaborate, and build something meaningful!** 🚀
 
-<br/>
+<a href="https://www.linkedin.com/in/muhamamd-mahad/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://portfolio-website-delta-swart-91.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:muhammadmahad01010@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4338CA,100:070B1D&height=120&section=footer" alt="Decorative footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4338CA,100:070B1D&height=120&section=footer" alt="Decorative footer banner" width="100%"/>
 
 </div>
 '''
 
-path = "/mnt/data/README.md"
-pypandoc.convert_text(readme, "md", format="md", outputfile=path, extra_args=["--standalone"])
-print(f"Created complete README.md with Machine Learning and Deep Learning sections: {os.path.getsize(path)} bytes")
+path = Path("/mnt/data/README.md")
+path.write_text(readme, encoding="utf-8")
+print(f"Created clean GitHub README.md: {path.stat().st_size:,} bytes")
